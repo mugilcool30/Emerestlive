@@ -13,7 +13,7 @@ import androidx.core.content.ContextCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    // url for loading in custom chrome tab
+    // your url for loading in custom chrome tab
     String url = "https://emeresttest.unytalk.live/guest/joinEvent?user_uuid=g678ggj677bj565fgfdg&fname=neobric&lname=test&email=neobric_unytalk@yopmail.com";
 
     @Override
